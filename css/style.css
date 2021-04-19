@@ -1,0 +1,52 @@
+.nav-style , .poster-color, .footer-style{
+    background-color: #FFF9F4;
+    
+}
+.nav-style img{
+    width: 200px;
+}
+
+.nav-style ul li {
+    margin:0 10px;
+    font-weight: bold;
+
+}
+.image-background{
+margin: 20px 20px 0 20px;
+padding: 20px;
+border-radius: 2em;
+}
+.card-border{
+    border: none;
+    border-radius: 1em;
+}
+.card-body-style{
+    margin: 15px;
+}
+
+.card-fit{
+    border-radius: 1em;
+    margin:40px 40px 40px 0;
+}
+.card-fit img{
+width: 50px;
+margin:3px  20px 3px 10px;
+padding: 5px;
+}
+.button-style , .button-style button
+{
+    border-radius: 0px;
+}
+
+.card-button-style h3{
+color: #FA804C;
+}
+.card-button-style button{
+    background-color: #3847CF;
+    border-radius: .5em;
+    color: white;
+}
+.card-footer{
+    background-color: white;
+    border:none;
+}
